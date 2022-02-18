@@ -3,8 +3,8 @@
 
 import PackageDescription
 
-let version = "4.5.8"
-let checksum = "a4739a4ffc4989ddb5b195197528493a27d92ac08a9c5daa56ed5b0b117536a3"
+let version = "4.6.0-b.1"
+let checksum = "e07a22f021fd90a81615be5708ab3459a7349beaf655c454b6f27bd193aa86cc"
 
 let package = Package(
     name: "AirTurnInterface",
